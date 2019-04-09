@@ -1,32 +1,27 @@
 # The #researcherskills Workshop-in-a-Box
-The [ResearchOps Community](https://researchops.community) are a group of people who are interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward. Here are all of the publicly available materials for the ResearchOps Community "Researcher Skills" workshop.
+The [ResearchOps Community](https://researchops.community) are people interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward. Here are all of the publicly available materials for the ResearchOps Community 2019 #researcherskills workshop.
 
 **Contents:**
 1. [_Live resource links_](#livelinks)
 2. [_Materials in repo_](#materials)
 3. [_Organizer timeline & expectations_](#organizers)
-4. [_Event description language_](#eventdesc)
+4. [_Description & outreach language_](#eventdesc)
 
 For more context, see the [workshop background article](https://medium.com/researchops-community/a-researcher-skills-career-workshop-ce6926af1ffb) on the ResearchOps Medium publication.
-
-Ultimately, these workshops are a success if that we're able to foster great conversations, meaningful reflection, and growth of the practice for everyone involved. Here's how we see the 3-way value exchange:
-- _Participants_ get to see their work in new ways, reflect and discuss with other researchers they may never otherwise meet
-- _Organizers_ get to bring together the local community, gain a nuanced perspective on the work, and help research grow in their city
-- The _ResearchOps Community_ gets an interesting look at challenges and skills-in-use for researchers all over—and will publish the data to be open for everyone
 
 
 ---
 
-## Live resource links: <a name="livelinks"></a>
+## 1. Live resource links: <a name="livelinks"></a>
 
 - **Directory of cities & workshops:** (needs cleanup/coming soon!)
 -  [**Workshop Guide Deck**](https://docs.google.com/presentation/d/1a-T6Qb3Pee6U8H-NdHHBPKXDTwIwjNCaJN7KMaIT3oc/edit?usp=sharing) google slides to guide workshop
 -  [**Participant Workbook source**](https://docs.google.com/presentation/d/1sg_1g0V-9q9dCDVzMT1E5sYJit5cKzpgVyCnRe_eSJ0/edit?usp=sharing) google slides / printable (PDF also in repo)
 - [**Participant summary form**](https://drive.google.com/open?id=1rukCTSauKLb_u4MKcr__35ua0N_kP5yLvetuCNC4uPk) organizers to fill out day after workshop
-- [**Workshop feedback form**](https://drive.google.com/open?id=1WEESmNY00ASxOgdnNuNAiSDAltmVuwlfZN5zdGMILew) google form—organizers send to participants after workshop
+- [**Workshop feedback form**](https://drive.google.com/open?id=1WEESmNY00ASxOgdnNuNAiSDAltmVuwlfZN5zdGMILew) organizers send to participants (see post-workshop outreach language)
 
 
-## Materials in repo: <a name="materials"></a>
+## 2. Materials in repo: <a name="materials"></a>
 
 - [**Participant workbook**](https://github.com/researchops/researcherskills-workshop/blob/master/materials/researcherskills-workshop_participant-workbooks.pdf) (PDF, printable)
 - [**Workshop graphics / assets**](https://github.com/researchops/researcherskills-workshop/tree/master/graphics) (folder of PNGs)
@@ -34,7 +29,7 @@ Ultimately, these workshops are a success if that we're able to foster great con
 - [**Organizer FAQ**](https://github.com/researchops/researcherskills-workshop/blob/master/FAQ.md) for all of your questions!
 
 
-## Organizer timeline & expectations: <a name="organizers"></a>
+## 3. Organizer timeline & expectations: <a name="organizers"></a>
 
 We're sponsoring workshops April through June of 2019. We're working with local community leaders to host these workshops in their cities/towns/regions. Here's how to get involved and run a workshop: 
 
@@ -81,7 +76,7 @@ We're sponsoring workshops April through June of 2019. We're working with local 
 
 
 
-## Outreach / event language: <a name="eventdesc"></a>
+## 4. Outreach / event language: <a name="eventdesc"></a>
 
 #### Basic event description: 
 

@@ -26,6 +26,15 @@ Anywhere between 6-24 people. We’re anticipating that most groups will be arou
 
 Note that more is not better, and it’s not just about the number of attendees. Also consider how you can attract participants from across the experience/seniority spectrum. 
 
+## What does success look like for this workshop?
+
+Ultimately, these workshops are a success if that we're able to foster great conversations, meaningful reflection, and growth of the practice for everyone involved. 
+
+Here's how we see the 3-way value exchange:
+- _Participants_ get to see their work in new ways, reflect and discuss with other researchers they may never otherwise meet
+- _Organizers_ get to bring together the local community, gain a nuanced perspective on the work, and help research grow in their city
+- The _ResearchOps Community_ gets an interesting look at challenges and skills-in-use for researchers all over—and will publish the data to be open for everyone
+
 ## How can I find participants? 
 
 We recommend starting with your immediate network, then taking a snowball recruiting method. Hopefully the #researcherskills word will spread as more cities come onboard, too! 
