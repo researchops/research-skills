@@ -100,7 +100,7 @@ We'll recommend bcc'ing everyone for the final outreach. All language is a sugge
 >
 >First off, I hope you had a great time and were able to connect with new people, it's how we'll keep our community and our practice growing. If you have any direct feedback on what else we can do, or workshop facilitation, please feel free to send that directly to me. And please take a couple moments to send your feedback to the team that created this workshop: https://forms.gle/39j4RQPfj1BKQGhm9
 >
->The ResearchOps Community will aggregate, clean up, and publish open-sourced data from all the workshops around the world. If you'd like to get involved there, check out https://researchops.community. You can also find all of the materials from the workshop as open-source resources on github: https://github.com/researchops/researcherskills-workshop#livelinks. (And you'll see data published here as it's ready.)
+>The ResearchOps Community will aggregate, clean up, and publish open-sourced data from all the workshops around the world. If you'd like to get involved there, check out https://researchops.community. You can also find all of the materials from the workshop as open-source resources on github: https://github.com/researchops/researcherskills-workshop. (And you'll see data published here as it's ready.)
 >
 >Ultimately, our work will also inform a larger effort to produce a skills framework for researchers that helps us learn and grow. Thank you for your time and involvement in making it happen.
 >
