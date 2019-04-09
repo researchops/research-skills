@@ -9,6 +9,12 @@ Here are all of the publicly available materials for the ResearchOps Community "
 
 The [ResearchOps Community](https://researchops.community) are a group of people who are interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward. For more context, see the [workshop background article](https://medium.com/researchops-community/a-researcher-skills-career-workshop-ce6926af1ffb) on the ResearchOps Medium publication.
 
+Ultimately, these workshops are a success if that we're able to foster great conversations, meaningful reflection, and growth of the practice for everyone involved. Here's how we see the 3-way value exchange:
+- _Participants_ get to see their work in new ways, reflect and discuss with other researchers they may never otherwise meet
+- _Organizers_ get to bring together the local community, gain a nuanced perspective on the work, and help research grow in their city
+- The _ResearchOps Community_ gets an interesting look at challenges and skills-in-use for researchers all over—and will publish the data to be open for everyone
+
+
 ---
 
 ## Live resource links: <a name="livelinks"></a>
@@ -28,14 +34,7 @@ The [ResearchOps Community](https://researchops.community) are a group of people
 
 ## Organizer timeline & expectations: <a name="organizers"></a>
 
-The ResearchOps community is sponsoring workshops April through June of 2019. We're working with local community leaders to host these workshops in their cities/towns/regions. 
-
-Ultimately, these workshops are a success if that we're able to foster great conversations, meaningful reflection, and growth of the practice for everyone involved. Here's how we see the 3-way value exchange:
-- _Participants_ get to see their work in new ways, reflect and discuss with other researchers they may never otherwise meet
-- _Organizers_ get to bring together the local community, gain a nuanced perspective on the work, and help research grow in their city
-- The _ResearchOps Community_ gets an interesting look at challenges and skills-in-use for researchers all over—and will publish the data to be open for everyone
-
-
+We're sponsoring workshops April through June of 2019. We're working with local community leaders to host these workshops in their cities/towns/regions. Here's how to get involved and run a workshop: 
 
 #### First steps to becoming an organizer:
 1. Whenever you like: fill out the [call for organizers form](https://tiny.cc/reops-workshop)
@@ -47,8 +46,8 @@ Ultimately, these workshops are a success if that we're able to foster great con
 3. Add your city, date, and location to the workshop listing table
 4. Set up an event page to track recruits: we recommend eventbrite, and some language you can use is below
 5. Begin recruiting—
- - smaller cities & workshops: we recommend a snowball recruit method, start with immediate network and expand until you've reached capacity
- - larger cities & workshops: snowball is a good start, and we can recommend some good places to recruit for your city, as well as provide a signal boost
+  * smaller cities & workshops: we recommend a snowball recruit method, start with immediate network and expand until you've reached capacity
+  * larger cities & workshops: snowball is a good start, and we can recommend some good places to recruit for your city, as well as provide a signal boost
 6. Optionally, plan out any food/drink logistics with your venue and co-organizers
 
 #### 1 week before the workshop:
@@ -74,7 +73,7 @@ Ultimately, these workshops are a success if that we're able to foster great con
 
 #### Day after the workshop:
 1. Send data back to the Community: you'll record each participant's summary form into a digital data-intake form
- - we expect this to add 2-4 minutes of work per-participant: it's work, but we'd like to keep technology & devices out of the workshop for its entirety
+  * we expect this to add 2-4 minutes of work per-participant: it's work, but we'd like to keep technology & devices out of the workshop for its entirety
 2. Send a follow-up email to your participants for personal feedback and with the global feedback form
 3. Let us know how you'd like to stay involved
 
