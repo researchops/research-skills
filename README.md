@@ -27,9 +27,10 @@ Ultimately, these workshops are a success if that we're able to foster great con
 
 ## Materials in repo: <a name="materials"></a>
 
-- **Participant worksheets** (PDF, printable) — in "materials"
-- **Workshop graphics** & publicity images — in "graphics"
-- **Sourcefile (.sketch)** for all graphics — in "graphics"
+- [**Participant workbook**](https://github.com/researchops/researcherskills-workshop/blob/master/materials/researcherskills-workshop_participant-workbooks.pdf) (PDF, printable)
+- [**Workshop graphics / assets**](https://github.com/researchops/researcherskills-workshop/tree/master/graphics) (folder of PNGs)
+- [**Graphics sourcefile**](https://github.com/researchops/researcherskills-workshop/blob/master/graphics/researcherskills-workshop_graphics-sourcefile.sketch) (.sketch)
+- [**Organizer FAQ**](https://github.com/researchops/researcherskills-workshop/blob/master/FAQ.md) for all of your questions!
 
 
 ## Organizer timeline & expectations: <a name="organizers"></a>
