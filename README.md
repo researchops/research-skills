@@ -14,19 +14,19 @@ For more context, see the [workshop background article](https://medium.com/resea
 
 ## 1. Live resource links: <a name="livelinks"></a>
 
-- **Directory of cities & workshops:** (needs cleanup/coming soon!)
--  [**Workshop Guide Deck**](https://docs.google.com/presentation/d/1a-T6Qb3Pee6U8H-NdHHBPKXDTwIwjNCaJN7KMaIT3oc/edit?usp=sharing) google slides to guide workshop
--  [**Participant Workbook source**](https://docs.google.com/presentation/d/1sg_1g0V-9q9dCDVzMT1E5sYJit5cKzpgVyCnRe_eSJ0/edit?usp=sharing) google slides / printable (PDF also in repo)
-- [**Participant summary form**](https://drive.google.com/open?id=1rukCTSauKLb_u4MKcr__35ua0N_kP5yLvetuCNC4uPk) organizers to fill out day after workshop
-- [**Workshop feedback form**](https://drive.google.com/open?id=1WEESmNY00ASxOgdnNuNAiSDAltmVuwlfZN5zdGMILew) organizers send to participants (see post-workshop outreach language)
+- [**Directory of cities & workshops:**](https://docs.google.com/spreadsheets/d/1Imo0uCiN4do6qxM5Ct_qefdf_tkynGPn4nLEf4gtO5M/edit?usp=sharing) • google sheets, organizers will have edit-access to update
+-  [**Workshop Guide Deck**](https://docs.google.com/presentation/d/1a-T6Qb3Pee6U8H-NdHHBPKXDTwIwjNCaJN7KMaIT3oc/edit?usp=sharing) • google slides to guide workshop
+-  [**Participant Workbook source**](https://docs.google.com/presentation/d/1sg_1g0V-9q9dCDVzMT1E5sYJit5cKzpgVyCnRe_eSJ0/edit?usp=sharing) • google slides / printable (PDF also in repo)
+- [**Participant summary form**](https://drive.google.com/open?id=1rukCTSauKLb_u4MKcr__35ua0N_kP5yLvetuCNC4uPk) • organizers to fill out day after workshop
+- [**Workshop feedback form**](https://drive.google.com/open?id=1WEESmNY00ASxOgdnNuNAiSDAltmVuwlfZN5zdGMILew) • organizers send to participants (see post-workshop outreach language)
 
 
 ## 2. Materials in repo: <a name="materials"></a>
 
-- [**Participant workbook**](https://github.com/researchops/researcherskills-workshop/blob/master/materials/researcherskills-workshop_participant-workbooks.pdf) (PDF, printable)
-- [**Workshop graphics / assets**](https://github.com/researchops/researcherskills-workshop/tree/master/graphics) (folder of PNGs)
-- [**Graphics sourcefile**](https://github.com/researchops/researcherskills-workshop/blob/master/graphics/researcherskills-workshop_graphics-sourcefile.sketch) (.sketch)
-- [**Organizer FAQ**](https://github.com/researchops/researcherskills-workshop/blob/master/FAQ.md) for all of your questions!
+- [**Participant workbook**](https://github.com/researchops/researcherskills-workshop/blob/master/materials/researcherskills-workshop_participant-workbooks.pdf) • PDF, printable
+- [**Workshop graphics / assets**](https://github.com/researchops/researcherskills-workshop/tree/master/graphics) • folder of PNGs
+- [**Graphics sourcefile**](https://github.com/researchops/researcherskills-workshop/blob/master/graphics/researcherskills-workshop_graphics-sourcefile.sketch) • .sketch file
+- [**Organizer FAQ**](https://github.com/researchops/researcherskills-workshop/blob/master/FAQ.md) • attempting to answer all of your additional questions
 
 
 ## 3. Organizer timeline & expectations: <a name="organizers"></a>
@@ -40,8 +40,8 @@ We're sponsoring workshops April through June of 2019. We're working with local 
 #### 1-6 weeks before the workshop:
 1. Recruit any local co-organizers or facilitators you may need
 2. Identify a venue and tentative date
-3. Add your city, date, and location to the workshop listing table
-4. Set up an event page to track recruits: we recommend eventbrite, and some language you can use is below
+3. Add your city, date, and location to the [workshop event listing](https://docs.google.com/spreadsheets/d/1Imo0uCiN4do6qxM5Ct_qefdf_tkynGPn4nLEf4gtO5M/edit?usp=sharing)
+4. Set up an event page to track recruits: we recommend eventbrite, and some language you can use is below in [Description & outreach language](#eventdesc)
 5. Begin recruiting—
   * smaller cities & workshops: we recommend a snowball recruit method, start with immediate network and expand until you've reached capacity
   * larger cities & workshops: snowball is a good start, and we can recommend some good places to recruit for your city, as well as provide a signal boost
