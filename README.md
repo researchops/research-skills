@@ -1,4 +1,3 @@
-Inline-style: 
 ![alt text](https://raw.githubusercontent.com/researchops/researcherskills-workshop/master/graphics/github-process-overview.png "Call to action + process overview")
 
 
