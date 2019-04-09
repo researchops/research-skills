@@ -4,6 +4,7 @@
 # The 2019 Researcher Skills "workshop in a box"
 The [ResearchOps Community](https://researchops.community) are people interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward. Here are all of the publicly available materials for the ResearchOps Community 2019 #researcherskills workshop.
 
+<!--
 **Contents:**
 1. [_Live resource links_](#livelinks)
 2. [_Materials in repo_](#materials)
@@ -11,13 +12,13 @@ The [ResearchOps Community](https://researchops.community) are people interested
 4. [_Description & outreach language_](#eventdesc)
 
 For more context, see the [workshop background article](https://medium.com/researchops-community/a-researcher-skills-career-workshop-ce6926af1ffb) on the ResearchOps Medium publication, or go directly to our [organizer sign up form](https://tiny.cc/reops-workshop) (open through May 2019, we'll do our best to respond promptly.)
+-->
 
 ---
 
 ## 1. Live resource links: <a name="livelinks"></a>
 
 
-- 
 - [**Directory of cities & workshops:**](https://docs.google.com/spreadsheets/d/1Imo0uCiN4do6qxM5Ct_qefdf_tkynGPn4nLEf4gtO5M/edit?usp=sharing) • google sheets, organizers will have edit-access to update
 -  [**Workshop Guide Deck**](https://docs.google.com/presentation/d/1a-T6Qb3Pee6U8H-NdHHBPKXDTwIwjNCaJN7KMaIT3oc/edit?usp=sharing) • google slides to guide workshop
 -  [**Participant Workbook source**](https://docs.google.com/presentation/d/1sg_1g0V-9q9dCDVzMT1E5sYJit5cKzpgVyCnRe_eSJ0/edit?usp=sharing) • google slides / printable (PDF also in repo)
