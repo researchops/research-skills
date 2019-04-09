@@ -1,13 +1,13 @@
 # The #researcherskills Workshop-in-a-Box
-Here are all of the publicly available materials for the ResearchOps Community "Researcher Skills" workshop.
+The [ResearchOps Community](https://researchops.community) are a group of people who are interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward. Here are all of the publicly available materials for the ResearchOps Community "Researcher Skills" workshop.
 
 **Contents:**
-1. [Live resource links](#livelinks)
-2. [Materials in repo](#materials)
-3. [Organizer timeline & expectations](#organizers)
-4. [Event description language](#eventdesc)
+1. [_Live resource links_](#livelinks)
+2. [_Materials in repo_](#materials)
+3. [_Organizer timeline & expectations_](#organizers)
+4. [_Event description language_](#eventdesc)
 
-The [ResearchOps Community](https://researchops.community) are a group of people who are interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward. For more context, see the [workshop background article](https://medium.com/researchops-community/a-researcher-skills-career-workshop-ce6926af1ffb) on the ResearchOps Medium publication.
+For more context, see the [workshop background article](https://medium.com/researchops-community/a-researcher-skills-career-workshop-ce6926af1ffb) on the ResearchOps Medium publication.
 
 Ultimately, these workshops are a success if that we're able to foster great conversations, meaningful reflection, and growth of the practice for everyone involved. Here's how we see the 3-way value exchange:
 - _Participants_ get to see their work in new ways, reflect and discuss with other researchers they may never otherwise meet
@@ -19,10 +19,11 @@ Ultimately, these workshops are a success if that we're able to foster great con
 
 ## Live resource links: <a name="livelinks"></a>
 
-- Directory of cities & workshops: (needs cleanup/coming soon!)
--  [Workshop Guide Deck](https://docs.google.com/presentation/d/1a-T6Qb3Pee6U8H-NdHHBPKXDTwIwjNCaJN7KMaIT3oc/edit?usp=sharing) google slides
-- [Data collection—participant summary sheets](https://drive.google.com/open?id=1rukCTSauKLb_u4MKcr__35ua0N_kP5yLvetuCNC4uPk) google form—organizers to fill out
-- [Data collection-workshop feedback form](https://drive.google.com/open?id=1WEESmNY00ASxOgdnNuNAiSDAltmVuwlfZN5zdGMILew) google form—organizers send to participants after workshop
+- **Directory of cities & workshops:** (needs cleanup/coming soon!)
+-  [**Workshop Guide Deck**](https://docs.google.com/presentation/d/1a-T6Qb3Pee6U8H-NdHHBPKXDTwIwjNCaJN7KMaIT3oc/edit?usp=sharing) google slides to guide workshop
+-  [**Participant Workbook source**](https://docs.google.com/presentation/d/1sg_1g0V-9q9dCDVzMT1E5sYJit5cKzpgVyCnRe_eSJ0/edit?usp=sharing) google slides / printable (PDF also in repo)
+- [**Participant summary form**](https://drive.google.com/open?id=1rukCTSauKLb_u4MKcr__35ua0N_kP5yLvetuCNC4uPk) organizers to fill out day after workshop
+- [**Workshop feedback form**](https://drive.google.com/open?id=1WEESmNY00ASxOgdnNuNAiSDAltmVuwlfZN5zdGMILew) google form—organizers send to participants after workshop
 
 
 ## Materials in repo: <a name="materials"></a>
