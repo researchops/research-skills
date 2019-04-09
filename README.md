@@ -14,6 +14,8 @@ For more context, see the [workshop background article](https://medium.com/resea
 
 ## 1. Live resource links: <a name="livelinks"></a>
 
+
+- [**Organizer sign up form:**](https://tiny.cc/reops-workshop) • google form, open through May 2019, we'll do our best to respond promptly 
 - [**Directory of cities & workshops:**](https://docs.google.com/spreadsheets/d/1Imo0uCiN4do6qxM5Ct_qefdf_tkynGPn4nLEf4gtO5M/edit?usp=sharing) • google sheets, organizers will have edit-access to update
 -  [**Workshop Guide Deck**](https://docs.google.com/presentation/d/1a-T6Qb3Pee6U8H-NdHHBPKXDTwIwjNCaJN7KMaIT3oc/edit?usp=sharing) • google slides to guide workshop
 -  [**Participant Workbook source**](https://docs.google.com/presentation/d/1sg_1g0V-9q9dCDVzMT1E5sYJit5cKzpgVyCnRe_eSJ0/edit?usp=sharing) • google slides / printable (PDF also in repo)
@@ -82,7 +84,7 @@ We're sponsoring workshops April through June of 2019. We're working with local 
 
 > The Researcher Skills workshop is coming to (city). We're bringing together groups of researchers who are interested in reflecting on their craft, learning, and growing. In this 2-hour workshop, we discuss specific challenges in doing the work, map out past project experience, and evaluate skills and career progression with tools developed by the ResearchOps Community. 
 >
->It's also an opportunity for us to give back. We'll collect some of the workshop output data and send it back to the ResearchOps community. They'll clean up and open-source all of the researcher skills data, and gatehr a project team together to publish a well-informed skills framework that researchers everywhere can use as a guide for growth and career progression.
+>It's also an opportunity for us to give back. We'll collect some of the workshop output data and send it back to the ResearchOps community. They'll clean up and open-source all of the researcher skills data, and gather a project team together to publish a well-informed skills framework that researchers everywhere can use as a guide for growth and career progression.
 This workshop is open to anyone with hands-on experience doing research. 
 
 #### More details for participants:
