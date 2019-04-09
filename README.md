@@ -1,3 +1,7 @@
+Inline-style: 
+![alt text](https://raw.githubusercontent.com/researchops/researcherskills-workshop/master/graphics/github-process-overview.png "Call to action + process overview")
+
+
 # The #researcherskills Workshop-in-a-Box
 The [ResearchOps Community](https://researchops.community) are people interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward. Here are all of the publicly available materials for the ResearchOps Community 2019 #researcherskills workshop.
 
