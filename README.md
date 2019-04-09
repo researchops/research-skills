@@ -1,15 +1,15 @@
-# researcherskills-workshop
-Publicly available materials for the ResearchOps Community "Researcher Skills" workshop-in-a-box.
+# The #researcherskills community workshop
+Here are all of the publicly available materials for the ResearchOps Community "Researcher Skills" workshop-in-a-box.
 
+**Contents:**
 1. [Live resource links](#livelinks)
 2. [Materials in repo](#materials)
 3. [Organizer timeline & expectations](#organizers)
 4. [Event description language](#eventdesc)
 
-The [ResearchOps Community](https://researchops.community) are a group of people who are interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward.
+The [ResearchOps Community](https://researchops.community) are a group of people who are interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward. For more context, see the [workshop background article](https://medium.com/researchops-community/a-researcher-skills-career-workshop-ce6926af1ffb) on the ResearchOps Medium publication.
 
-See the [workshop background article](https://medium.com/researchops-community/a-researcher-skills-career-workshop-ce6926af1ffb) on the ResearchOps Medium publication.
-
+---
 
 ## Live resource links: <a name="livelinks"></a>
 
