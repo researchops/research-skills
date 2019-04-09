@@ -1,5 +1,5 @@
-# The #researcherskills community workshop
-Here are all of the publicly available materials for the ResearchOps Community "Researcher Skills" workshop-in-a-box.
+# The #researcherskills Workshop-in-a-Box
+Here are all of the publicly available materials for the ResearchOps Community "Researcher Skills" workshop.
 
 **Contents:**
 1. [Live resource links](#livelinks)
@@ -28,22 +28,20 @@ The [ResearchOps Community](https://researchops.community) are a group of people
 
 ## Organizer timeline & expectations: <a name="organizers"></a>
 
-The ResearchOps community is sponsoring workshops April through June of 2019. We're looking for local community research leaders to host these workshops. 
+The ResearchOps community is sponsoring workshops April through June of 2019. We're working with local community leaders to host these workshops in their cities/towns/regions. 
 
-There's a three-way value exchange here:
-- **Participants** get to see their work in new ways, reflect and discuss with other researchers they may never otherwise meet
-- **Organizers** get to bring together the local community, gain a nuanced perspective on the work, and help research grow in their city
-- The **ResearchOps Community** gets an interesting look at challenges and skills-in-use for researchers all over—and will publish the data to be open for everyone
+Ultimately, these workshops are a success if that we're able to foster great conversations, meaningful reflection, and growth of the practice for everyone involved. Here's how we see the 3-way value exchange:
+- _Participants_ get to see their work in new ways, reflect and discuss with other researchers they may never otherwise meet
+- _Organizers_ get to bring together the local community, gain a nuanced perspective on the work, and help research grow in their city
+- The _ResearchOps Community_ gets an interesting look at challenges and skills-in-use for researchers all over—and will publish the data to be open for everyone
 
-Ultimately, these workshops are a success if that we're able to foster great conversations, meaningful reflection, and growth of the practice for everyone involved.
 
-#### Workshop activity timeline:
 
-**_First steps_**
+#### First steps to becoming an organizer:
 1. Whenever you like: fill out the [call for organizers form](https://tiny.cc/reops-workshop)
 2. We onboard qualified organizers and you'll join a short video call to review materials & expectations
 
-**_1-6 weeks before the workshop_**
+#### 1-6 weeks before the workshop:
 1. Recruit any local co-organizers or facilitators you may need
 2. Identify a venue and tentative date
 3. Add your city, date, and location to the workshop listing table
@@ -53,19 +51,19 @@ Ultimately, these workshops are a success if that we're able to foster great con
  - larger cities & workshops: snowball is a good start, and we can recommend some good places to recruit for your city, as well as provide a signal boost
 6. Optionally, plan out any food/drink logistics with your venue and co-organizers
 
-**_1 week before the workshop_**
+#### 1 week before the workshop:
 1. Verify time and date with your location; double-check A/V situation for presenting
 2. Print out participant workbooks for each participant
 3. Review this page and the Workshop Guide Deck in case there are any changes
 
-**_1 day before the workshop_**
+#### 1 day before the workshop:
 1. Double-check attendee list and recruit status
 2. Optionally, send reminders to attendees using some of the language below
 3. Gather all your materials: workbook, scratch paper, extra pens/sharpies for participants
 4. Check your tech: laptop for presenting, internet-in-venue, power supply for laptop if needed
 5. Ask the team / other oganizers about any remaining questions & concerns
 
-**_Day of the workshop_**
+#### Day of the workshop:
 1. Always leave early to get there :)
 2. Set up venue: tables of 5-6 will be great; discussions will happen in 2's or 3's, table wide, and workshop-wide
 3. Prep the guide-deck presentation / projection
@@ -74,7 +72,7 @@ Ultimately, these workshops are a success if that we're able to foster great con
 6. Gather everything and clean up / close-down the venue
 7. Take a break—how was it? Thank you for all the work so far!!
 
-**_Day after the workshop_**
+#### Day after the workshop:
 1. Send data back to the Community: you'll record each participant's summary form into a digital data-intake form
  - we expect this to add 2-4 minutes of work per-participant: it's work, but we'd like to keep technology & devices out of the workshop for its entirety
 2. Send a follow-up email to your participants for personal feedback and with the global feedback form
@@ -98,13 +96,21 @@ This workshop is open to anyone with hands-on experience doing research.
 >Bring a pen & pencil, and your favorite colored markers if you like. Your organizer will provide scratch paper for the activities, and printed worksheets for the more structured exercises.
 
 #### Post-workshop feedback email:
+(We'll recommend bcc'ing everyone for the final outreach.)
 
->Thank you so much for joining us at the #researcherskills workshop. 
+>Dear workshoppers,
 >
->TODO: can send direct feedback to facilitator, link to workshop feedback form for community, list ways participants can join in further & how they can follow progress of the projet / get aggregate data
+>Thank you so much for joining us at the #researcherskills workshop yesterday. 
+>
+>First off, I hope you had a great time and were able to connect with new people, it's how we'll keep our community and our practice growing. If you have any direct feedback on what else we can do, or workshop facilitation, please feel free to send that directly to me. And please take a couple moments to send your feedback to the team that created this workshop: https://forms.gle/39j4RQPfj1BKQGhm9
+>
+>The ResearchOps Community will aggregate, clean up, and publish open-sourced data from all the workshops around the world. If you'd like to get involved there, check out https://researchops.community. You can also find all of the materials from the workshop as open-source resources on github: https://github.com/researchops/researcherskills-workshop#livelinks. It's also where you'll see data published as it's ready.
+>
+>Ultimately, our work will also inform a larger effort to produce a skills framework for researchers that helps us learn and grow. Thank you for your time and involvement in making it happen.
+>
+>(signoff, name, etc.)
 
 
----
 ---
 
 All of these materials are offered freely under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
