@@ -28,7 +28,8 @@ For more context, see the [workshop background article](https://medium.com/resea
 
 ## 2. Materials in repo: <a name="materials"></a>
 
-- [**Participant workbook**](https://github.com/researchops/researcherskills-workshop/blob/master/materials/researcherskills-workshop_participant-workbooks.pdf) • PDF, printable
+- [**Participant workbook**](https://github.com/researchops/researcherskills-workshop/blob/master/materials/researcherskills-workshop_participant-workbooks.pdf) • PDF, printable (print 1 per participant)
+- [**Workshop Guide Deck**](https://github.com/researchops/researcherskills-workshop/blob/master/materials/researcherskills-workshop_guide_deck.pdf) • PDF, download as backup in case you can't connect to google slides (no speakernotes or animation, though)
 - [**Workshop graphics / assets**](https://github.com/researchops/researcherskills-workshop/tree/master/graphics) • folder of PNGs
 - [**Graphics sourcefile**](https://github.com/researchops/researcherskills-workshop/blob/master/graphics/researcherskills-workshop_graphics-sourcefile.sketch) • .sketch file
 - [**Organizer FAQ**](https://github.com/researchops/researcherskills-workshop/blob/master/FAQ.md) • attempting to answer all of your additional questions
