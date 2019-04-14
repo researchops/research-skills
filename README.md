@@ -4,6 +4,8 @@
 # The 2019 Researcher Skills "workshop in a box"
 The [ResearchOps Community](https://researchops.community) are people interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward. You can jump in by filling out the [call for organizers form](https://tiny.cc/reops-workshop).
 
+It's a workshop developed **by researchers, for researchers** that will help connect our local research communities and start a thread of meaningful research-focused conversations.
+
 <!--
 **Contents:**
 1. [_Live resource links_](#livelinks)
@@ -89,7 +91,8 @@ We're sponsoring workshops April through June of 2019. We're working with local 
 > The Researcher Skills workshop is coming to (city). We're bringing together groups of researchers who are interested in reflecting on their craft, learning, and growing. In this 2-hour workshop, we discuss specific challenges in doing the work, map out past project experience, and evaluate skills and career progression with tools developed by the ResearchOps Community. 
 >
 >It's also an opportunity for us to give back. We'll collect some of the workshop output data and send it back to the ResearchOps community. They'll clean up and open-source all of the researcher skills data, and gather a project team together to publish a well-informed skills framework that researchers everywhere can use as a guide for growth and career progression.
-This workshop is open to anyone with hands-on experience doing research. 
+>
+> The workshop is open to anyone with hands-on experience doing research. Participants without professional research experience will be unable to complete some of the activities and have a hard time getting into the materials, which start by reflecting on specific working experiences, and creating productive discussion about the work.
 
 #### More details for participants:
 
