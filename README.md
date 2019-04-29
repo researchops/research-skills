@@ -24,8 +24,12 @@ For more context, see the [workshop background article](https://medium.com/resea
 - [**Directory of cities & workshops:**](https://docs.google.com/spreadsheets/d/1Imo0uCiN4do6qxM5Ct_qefdf_tkynGPn4nLEf4gtO5M/edit?usp=sharing) • google sheets, organizers will have edit-access to update
 -  [**Workshop Guide Deck**](https://docs.google.com/presentation/d/1a-T6Qb3Pee6U8H-NdHHBPKXDTwIwjNCaJN7KMaIT3oc/edit?usp=sharing) • google slides to guide workshop
 -  [**Participant Workbook source**](https://docs.google.com/presentation/d/1sg_1g0V-9q9dCDVzMT1E5sYJit5cKzpgVyCnRe_eSJ0/edit?usp=sharing) • google slides / printable (PDF also in repo)
+-  [**Workshop Facilitator Guide**](https://docs.google.com/presentation/d/1rirg9d_5MkynjlErWzHKpAKxKi65-5UNT5lkRyqkEC4/edit?usp=sharing) • google slides, will update as organizers add feedback
 - [**Participant summary form**](https://drive.google.com/open?id=1rukCTSauKLb_u4MKcr__35ua0N_kP5yLvetuCNC4uPk) • organizers to fill out day after workshop
 - [**Workshop feedback form**](https://drive.google.com/open?id=1WEESmNY00ASxOgdnNuNAiSDAltmVuwlfZN5zdGMILew) • organizers send to participants (see post-workshop outreach language)
+
+
+
 
 
 ## 2. Materials in repo: <a name="materials"></a>
