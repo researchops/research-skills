@@ -120,6 +120,23 @@ We'll recommend bcc'ing everyone for the final outreach. All language is a sugge
 >(signoff, name, etc.)
 
 
+#### Requirement check:
+If you have lots of signups and we didn't vet for experience ahead of time, here's an email you could send to your participants.
+
+>Title: Skills workshop—research experience requirement check
+>
+>Hey crew,
+>
+>You are all signed up for our Researcher Skills Workshop. We want to provide the best workshop experience for everyone who's there. To do that, we need to make sure that each of our participants have real, professional research experience—*we're recommending everyone who attends has > 3 months in the role of a researcher, or has driven > 3 research projects in a related role*.
+>
+>I'm sorry this wasn't entirely clear up front; the workshop won't actually review methods or teach or train anyone how to do research. Rather, this is a chance for people with research experience to gather, reflect, and discuss the specific challenges and success they've had in doing the work. Folks without experience will get limited value from the >workshop, and have a hard time contributing in the discussions.
+>
+>If you don't have the recommended experience and are already registered, please let me know, and we can re-open your slot for researcher-participants on the waitlist. I appreciate your honest humility.
+>
+>If you're correctly registered, no action required.
+>
+>(signoff, name, etc.)
+
 ---
 
 All of these materials are offered freely under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
