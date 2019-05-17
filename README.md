@@ -127,7 +127,7 @@ If you have lots of signups and we didn't vet for experience ahead of time, here
 >
 >Hey crew,
 >
->You are all signed up for our Researcher Skills Workshop. We want to provide the best workshop experience for everyone who's there. To do that, we need to make sure that each of our participants have real, professional research experience—*we're recommending everyone who attends has > 3 months in the role of a researcher, or has driven > 3 research projects in a related role*.
+>You are all signed up for our Researcher Skills Workshop. We want to provide the best workshop experience for everyone who's there. To do that, we need to make sure that each of our participants have real, professional research experience—*we're recommending everyone who attends has > 3 months in the role of a researcher, or has worked on > 3 research projects from a related role*.
 >
 >I'm sorry this wasn't entirely clear up front; the workshop won't actually review methods or teach or train anyone how to do research. Rather, this is a chance for people with research experience to gather, reflect, and discuss the specific challenges and success they've had in doing the work. Folks without experience will get limited value from the >workshop, and have a hard time contributing in the discussions.
 >
