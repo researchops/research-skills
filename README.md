@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/researchops/researcherskills-workshop/master/graphics/github-process-overview.png "Call to action + process overview")
+![alt text](https://raw.githubusercontent.com/researchops/researcherskills-workshop/master/graphics/github/page/github-process-overview.png "Call to action + process overview")
 
 
 # The 2019 Researcher Skills "workshop in a box"
