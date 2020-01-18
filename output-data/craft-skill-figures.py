@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 rsf = pd.read_csv('output-data/RSF_data_rc01.csv')
 skills = pd.read_csv('output-data/craft-skill-codes.csv')
 bands = pd.read_csv('output-data/year-bands.csv')
+outputfolder = "graphics/craft-skill-plots/"
 
 #proportion of people who indicated a given skill IMPORTANT...
 #within a given band of experience
@@ -23,12 +24,14 @@ def most_desired_prop(band,skill,data):
     prop = 1. * count / len(slice.index)  # divide by # of people in this band-slice
     return(prop)
 
-# Iterate through all skills, then per-experience-band
+# SKILL LOOP
+# Iterate through all skills
 for index, skill in skills.iterrows():
 
-    # Get observations for this skill, by band level as rows, dump into dataframe (skillframe)
     rows_list = []
 
+    # EXPERIENCE BAND LOOP
+    # Get observations for this skill, by band level as rows, dump into dataframe (skillframe)
     for index, band in bands.iterrows():
         rows_list.append([band['name'],most_important_prop(band, skill, rsf), "important now"])
         rows_list.append([band['name'],most_desired_prop(band, skill, rsf), "desired skill"])
@@ -45,5 +48,7 @@ for index, skill in skills.iterrows():
     plt.title("Skill: " + skill['skill'].capitalize())
     print("generating Skill: " + skill['skill'].capitalize() + "image")
     #plt.show()
-    plt.savefig("graphics/skillplots/" + skill['skill'].replace(" ", "_").replace("/","-")+".png")
+
+    #Title with skillname-cleaned up
+    plt.savefig(outputfolder + skill['skill'].replace(" ", "_").replace("/","-")+".png")
     plt.close()
