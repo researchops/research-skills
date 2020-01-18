@@ -1,0 +1,14 @@
+code,skill,question
+h1_biz-strategy_rating,Business & strategy insight,How well do I understand what our organization is trying to do? How we go about that?
+h2_delivery-disciplines_rating,Adjacent disciplines & delivery,How well do I understand how our delivery disciplines all fit together? Where research fits?
+h3_org-diplomacy_rating,Organizational diplomacy,How well do I evangelize value of research? Know with whom & where is the influence?
+h4_service-conceptual_rating,Service conceptual understanding,How well do I understand underlying scope & structure of our service / product?
+h5_stakeholder-mgmt-comms_rating,Stakeholder management / communication,"How well do I keep all parties informed, at the right level?"
+h6_project-mgmt_rating,Project management / ownership,How well can I manage our work so we make [outcomes] happen as expected?
+h7_research-process-mgmt_rating,Research process management,How well can I design/adapt research approaches to fit our project/situational needs?
+h8_reops-prowess_rating,Research operations prowess,"How well do I prepare, enable, sustain, evolve our research program?"
+h9_technical-research-skills_rating,Technical research prowess,"How well do I actually plan, execute, understand, and package research?"
+h10_persuation-articulation_rating,Persuasion & storytelling,How well do we tell translate research output into product/service outcomes?
+h11_interpersonal-relationships_rating,Interpersonal relationships,How well-connected am I to cross-functional team members in the org.?
+h12_prof-relationships_rating,Professional relationships,How well-connected am I to our larger professional community? 
+h13_mindful-work-reflection_rating,Mindful work & reflection,How well do I separate my work & my worth? How honestly do I assess myself?

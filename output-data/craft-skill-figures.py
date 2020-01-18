@@ -1,3 +1,11 @@
+# Participants selected three skills they found "most important" now, and three most desired.
+# This script plots the proportion of participants who report those skills,
+#   in each category, bucketed per "years experience in field" categories.
+# Currently, using box catplot from Seaborn python library
+
+# Needs all the data from this google sheet, exported to CSVs:
+# https://docs.google.com/spreadsheets/d/1IgbQiHOBhKZNEaTAXMJY16ZDwbE8NQmgZbX07fmMY6I/edit?usp=sharing
+
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -27,9 +35,8 @@ def most_desired_prop(band,skill,data):
 # SKILL LOOP
 # Iterate through all skills
 for index, skill in skills.iterrows():
-
     rows_list = []
-
+    
     # EXPERIENCE BAND LOOP
     # Get observations for this skill, by band level as rows, dump into dataframe (skillframe)
     for index, band in bands.iterrows():
