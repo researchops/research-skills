@@ -1,9 +1,9 @@
-## Code for generating plots
+## This is the code & data for generating plots
 Python code to generate plots based on output data from RSF Workshops 2019. All data in google sheet here: https://docs.google.com/spreadsheets/d/1IgbQiHOBhKZNEaTAXMJY16ZDwbE8NQmgZbX07fmMY6I/edit?usp=sharing, and CSV's in this folder.
 
 Output plots are in ../output-graphics.
 
-#### Script stuff
+### Script stuff
 There're two scripts in here:
 
 __craft-skill-figures.py__
