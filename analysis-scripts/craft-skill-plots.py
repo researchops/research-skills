@@ -11,10 +11,14 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-rsf = pd.read_csv('output-data/RSF_data_rc01.csv')
-skills = pd.read_csv('output-data/craft-skill-codes.csv')
-bands = pd.read_csv('output-data/year-bands.csv')
+rsf = pd.read_csv('input-data/RSF_data.csv')
+skills = pd.read_csv('input-data/craft-skill-codes.csv')
+bands = pd.read_csv('input-data/year-bands.csv')
 outputfolder = "graphics/craft-skill-plots/"
+
+
+# read this to make it better? for grouping operations below
+# https://tryolabs.com/blog/2017/03/16/pandas-seaborn-a-guide-to-handle-visualize-data-elegantly/
 
 #proportion of people who indicated a given skill IMPORTANT...
 #within a given band of experience
@@ -36,10 +40,11 @@ def most_desired_prop(band,skill,data):
 # Iterate through all skills
 for index, skill in skills.iterrows():
     rows_list = []
-    
+
     # EXPERIENCE BAND LOOP
     # Get observations for this skill, by band level as rows, dump into dataframe (skillframe)
     for index, band in bands.iterrows():
+        print band
         rows_list.append([band['name'],most_important_prop(band, skill, rsf), "important now"])
         rows_list.append([band['name'],most_desired_prop(band, skill, rsf), "desired skill"])
 

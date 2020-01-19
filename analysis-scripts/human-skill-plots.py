@@ -11,9 +11,9 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-rsf = pd.read_csv('output-data/RSF_data_rc01.csv')
-skills = pd.read_csv('output-data/human-skill-codes.csv')
-bands = pd.read_csv('output-data/year-bands.csv')
+rsf = pd.read_csv('input-data/RSF_data.csv')
+skills = pd.read_csv('input-data/human-skill-codes.csv')
+bands = pd.read_csv('input-data/year-bands.csv')
 outputfolder = "graphics/human-skill-plots/"
 
 # SKILL LOOP
@@ -30,17 +30,19 @@ for index, skill in skills.iterrows():
         #observations
         # There's gotta be a better way... I don't know how to melt
         for index, obs in slice.iterrows():
-            rows_list.append([band['name'],obs[skill['code']]])
+            rows_list.append([band['name'],obs['years_in_field'],obs[skill['code']],obs['job_category_select']])
 
-    skillframe = pd.DataFrame(rows_list,columns=['experience', 'rating'])
-
+    skillframe = pd.DataFrame(rows_list,columns=['experience', 'years', 'rating', 'role'])
+    print skillframe
     # Plot skillframe and save as graphical output
     sns.set(style="whitegrid", palette="muted")
-    g = sns.catplot(x="experience", y="rating", data=skillframe,
-                        height=6, kind="bar", legend=True)
-    g.set_ylabels("confidence rating")
-    g.set_xlabels("Years experience")
+    g = sns.lineplot(x="years", y="rating",
+                    #hue="role",
+                    data=skillframe)
+    #g.set_ylabels("confidence rating")
+    #g.set_xlabels("Years experience")
     plt.ylim(0,5)
+    plt.xlim(0,5)
     plt.title(skill['skill'].capitalize())
     print("generating Skill: " + skill['skill'].capitalize() + " image")
     #plt.show()
