@@ -44,7 +44,7 @@ for index, skill in skills.iterrows():
     # EXPERIENCE BAND LOOP
     # Get observations for this skill, by band level as rows, dump into dataframe (skillframe)
     for index, band in bands.iterrows():
-        print band
+        #print band
         rows_list.append([band['name'],most_important_prop(band, skill, rsf), "important now"])
         rows_list.append([band['name'],most_desired_prop(band, skill, rsf), "desired skill"])
 
