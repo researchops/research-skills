@@ -25,7 +25,16 @@ def prep_exploded(df,newtag,tagcol):
         for tag in row[newtag]:
             rows_list.append([row['years_in_field'], row['job_category_select'], row['org-type_select'], tag])
     newgoals =  pd.DataFrame(rows_list,columns=['years_in_field', 'job_category_select', 'org-type_select',newtag])
-    #print newgoals.head()
+    return newgoals
+
+
+def band_values(band,data,tag):
+    if band['name'] == 'all':
+        slice = data
+    else:
+        slice = data.loc[(data['years_in_field'] >= band['min']) & (data['years_in_field'] <= band['max'])]
+    print "\n\n" + tag + " @ " + band['name'] + " years in field:"
+    print slice[tag].value_counts().nlargest(5)
 
 # explode 4 tag categories of interest
 goalsploded = prep_exploded(rsf,'goal','goal-desc_tags')
@@ -33,30 +42,13 @@ challsploded = prep_exploded(rsf,'challenge','biggest-challenge_tags')
 excitesploded = prep_exploded(rsf,'excited','explore-excited_tags')
 nextsploded = prep_exploded(rsf,'nextstep','one-next-step_tags')
 
-#
-# DO SOMETHING COOL HERE:
-# - Filter by yearbands & get most common
-# - Check for different trends from Roletype, Orgtype
-#
+#get values by band for each
+for index, band in bands.iterrows():
+    band_values(band, goalsploded, 'goal')
+    band_values(band, challsploded, 'challenge')
+    band_values(band, excitesploded, 'excited')
+    band_values(band, nextsploded, 'nextstep')
 
-
-#### Unmelted freq. counts
-goaldata = rsf.dropna(subset=['goal'])
-goals = Counter(chain.from_iterable(x for x in goaldata.goal))
-print("\nGoal tags, most common:")
-print(goals.most_common())
-
-chaldata = rsf.dropna(subset=['challenge'])
-challenges = Counter(chain.from_iterable(x for x in chaldata['challenge']))
-print("\nChallenge tags, most common:")
-print(challenges.most_common())
-
-excdata = rsf.dropna(subset=['excited'])
-excitements = Counter(chain.from_iterable(x for x in excdata.excited))
-print("\nExcited tags, most common:")
-print(excitements.most_common())
-
-nextdata = rsf.dropna(subset=['nextstep'])
-nextsteps = Counter(chain.from_iterable(x for x in nextdata.nextstep))
-print("\nNext step tags, most common:")
-print(nextsteps.most_common())
+print "\n\n In house challenges:"
+print challsploded.loc[(challsploded['org-type_select'] == 'In-house private sector')]['challenge'].value_counts().nlargest(10)
+print challsploded.loc[(challsploded['org-type_select'] == 'Agency')]['challenge'].value_counts().nlargest(10)
