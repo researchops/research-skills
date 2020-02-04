@@ -25,10 +25,11 @@ For more context, see the [workshop background article](https://medium.com/resea
 
 ## 2. Materials in repo: <a name="materials"></a>
 
-- [**Participant workbook - v3**](https://github.com/researchops/researcherskills-workshop/blob/master/materials/researcherskills-workshop_participant-workbooks.pdf) • PDF, printable (print 1 per participant)
+- [**Participant workbook - v3**](https://github.com/researchops/researcherskills-workshop/blob/master/materials/researcherskills-workshop_participant-workbooks_v3.pdf) • PDF, printable (print 1 per participant)
 - [**Workshop graphics / assets**](https://github.com/researchops/researcherskills-workshop/tree/master/graphics) • folder of PNGs
 - [**Graphics sourcefile**](https://github.com/researchops/researcherskills-workshop/blob/master/graphics/researcherskills-workshop_graphics-sourcefile.sketch) • .sketch file
 
+---
 
 
 ## 3. Archive—Materials from the 2019 Global Workshop Series
