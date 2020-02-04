@@ -1,10 +1,7 @@
-![alt text](https://raw.githubusercontent.com/researchops/researcherskills-workshop/master/graphics/github-page/github-process-overview.png "Call to action + process overview")
-
-
 # The 2019 Researcher Skills "workshop in a box"
-The [ResearchOps Community](https://researchops.community) are people interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward. You can jump in by filling out the [call for organizers form](https://tiny.cc/reops-workshop).
+The [ResearchOps Community](https://researchops.community) are people interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward.
 
-It's a workshop developed **by researchers, for researchers** that will help connect our local research communities and start a thread of meaningful research-focused conversations.
+This is a workshop developed **by researchers, for researchers** in attempt to help connect our local research communities and start a thread of meaningful research-focused conversations.
 
 <!--
 **Contents:**
@@ -20,28 +17,30 @@ For more context, see the [workshop background article](https://medium.com/resea
 
 ## 1. Live resource links: <a name="livelinks"></a>
 
-
-- [**Directory of cities & workshops:**](https://docs.google.com/spreadsheets/d/1Imo0uCiN4do6qxM5Ct_qefdf_tkynGPn4nLEf4gtO5M/edit?usp=sharing) • google sheets, organizers will have edit-access to update
--  [**Workshop Guide Deck**](https://docs.google.com/presentation/d/1a-T6Qb3Pee6U8H-NdHHBPKXDTwIwjNCaJN7KMaIT3oc/edit?usp=sharing) • google slides to guide workshop
--  [**Participant Workbook source**](https://docs.google.com/presentation/d/1sg_1g0V-9q9dCDVzMT1E5sYJit5cKzpgVyCnRe_eSJ0/edit?usp=sharing) • google slides / printable (PDF also in repo)
--  [**Workshop Facilitator Guide**](https://docs.google.com/presentation/d/1rirg9d_5MkynjlErWzHKpAKxKi65-5UNT5lkRyqkEC4/edit?usp=sharing) • google slides, will update as organizers add feedback
-- [**Participant summary form**](https://drive.google.com/open?id=1rukCTSauKLb_u4MKcr__35ua0N_kP5yLvetuCNC4uPk) • organizers to fill out day after workshop
-- [**Workshop feedback form**](https://drive.google.com/open?id=1WEESmNY00ASxOgdnNuNAiSDAltmVuwlfZN5zdGMILew) • organizers send to participants (see post-workshop outreach language)
-
-
+-  [**1. Workshop Facilitator Guide - v3**](https://drive.google.com/open?id=162shG8jX-Fjdh2rbFQBxhRRtLoxpfY_bEvKfeiFFo7I) • google slides, will update as organizers add feedback
+-  [**2. Participant Workbook source - v3**](https://drive.google.com/open?id=1pl5mvpTk9TOp0CDqTbT9ENuipTpQN8RZ8vZKNzy10BI) • google slides / printable (PDF also in repo)
+-  [**3. Workshop Guide Deck - v3**](https://drive.google.com/open?id=1NyNRzl-krAd3ILaq73_AkljkScm1LjQnh-X_xLHjoGk) • google slides to guide workshop
 
 
 
 ## 2. Materials in repo: <a name="materials"></a>
 
-- [**Participant workbook**](https://github.com/researchops/researcherskills-workshop/blob/master/materials/researcherskills-workshop_participant-workbooks.pdf) • PDF, printable (print 1 per participant)
-- [**Workshop Guide Deck**](https://github.com/researchops/researcherskills-workshop/blob/master/materials/researcherskills-workshop_guide_deck.pdf) • PDF, download as backup in case you can't connect to google slides (no speakernotes or animation, though)
+- [**Participant workbook - v3**](https://github.com/researchops/researcherskills-workshop/blob/master/materials/researcherskills-workshop_participant-workbooks.pdf) • PDF, printable (print 1 per participant)
 - [**Workshop graphics / assets**](https://github.com/researchops/researcherskills-workshop/tree/master/graphics) • folder of PNGs
 - [**Graphics sourcefile**](https://github.com/researchops/researcherskills-workshop/blob/master/graphics/researcherskills-workshop_graphics-sourcefile.sketch) • .sketch file
-- [**Organizer FAQ**](https://github.com/researchops/researcherskills-workshop/blob/master/FAQ.md) • attempting to answer all of your additional questions
 
 
-## 3. Organizer timeline & expectations: <a name="organizers"></a>
+
+## 3. Archive—Materials from the 2019 Global Workshop Series
+- [**Directory of cities & workshops:**](https://docs.google.com/spreadsheets/d/1Imo0uCiN4do6qxM5Ct_qefdf_tkynGPn4nLEf4gtO5M/edit?usp=sharing) • google sheets, organizers will have edit-access to update
+- [**Organizer FAQ**](https://github.com/researchops/researcherskills-workshop/blob/master/FAQ.md) • attempting to answer your questions beyond the facilitator guide
+- [**Participant summary form**](https://drive.google.com/open?id=1rukCTSauKLb_u4MKcr__35ua0N_kP5yLvetuCNC4uPk) • organizers to fill out day after workshop
+- [**Workshop feedback form**](https://drive.google.com/open?id=1WEESmNY00ASxOgdnNuNAiSDAltmVuwlfZN5zdGMILew) • organizers send to participants (see post-workshop outreach language)
+
+![alt text](https://raw.githubusercontent.com/researchops/researcherskills-workshop/master/graphics/github-page/github-process-overview.png "Call to action + process overview")
+
+
+## 4. Organizer timeline & expectations: <a name="organizers"></a>
 
 We're sponsoring workshops April through June of 2019. We're working with local community leaders to host these workshops in their cities/towns/regions. Here's how to get involved and run a workshop: 
 
@@ -88,7 +87,7 @@ We're sponsoring workshops April through June of 2019. We're working with local 
 
 
 
-## 4. Outreach / event language: <a name="eventdesc"></a>
+## 5. Outreach / event language: <a name="eventdesc"></a>
 
 #### Basic event description: 
 
