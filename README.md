@@ -1,7 +1,7 @@
-# The 2019 Researcher Skills "workshop in a box"
+# The 2019 Researcher Skills Project
 The [ResearchOps Community](https://researchops.community) are people interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward.
 
-This is a workshop developed **by researchers, for researchers** in attempt to help connect our local research communities and start a thread of meaningful research-focused conversations.
+It's a workshop developed **by researchers, for researchers**, along with some of the resulting data from our workshops, in attempt to help connect our local research communities and start a thread of meaningful research-focused conversations.
 
 <!--
 **Contents:**
@@ -15,9 +15,14 @@ For more context, see the [workshop background article](https://medium.com/resea
 
 ---
 
-## 1. Live resource links: <a name="livelinks"></a>
+## 0. Data & links
+-  [**1.RSF_Data**](https://docs.google.com/spreadsheets/d/1IgbQiHOBhKZNEaTAXMJY16ZDwbE8NQmgZbX07fmMY6I/edit?usp=sharing) • google sheets, tagged data & summary statistics from 2019 workshop series
+-  [**2. Framework Benchmark**](https://github.com/researchops/researcherskills-workshop/blob/master/benchmark/frameworks-benchmark.md) • github page, a set of some of the frameworks we evaluated early in this project (propietary / private in-house frameworks sent to us are not listed here)
 
--  [**1. Workshop Facilitator Guide - v3**](https://drive.google.com/open?id=162shG8jX-Fjdh2rbFQBxhRRtLoxpfY_bEvKfeiFFo7I) • google slides, will update as organizers add feedback
+
+## 1. "Workshop in a box" package: <a name="livelinks"></a>
+
+-  [**1. Workshop Facilitator Guide - v3**](https://drive.google.com/open?id=162shG8jX-Fjdh2rbFQBxhRRtLoxpfY_bEvKfeiFFo7I) • google slides, guide through each of the areas in the workshop
 -  [**2. Participant Workbook source - v3**](https://drive.google.com/open?id=1pl5mvpTk9TOp0CDqTbT9ENuipTpQN8RZ8vZKNzy10BI) • google slides / printable (PDF also in repo)
 -  [**3. Workshop Guide Deck - v3**](https://drive.google.com/open?id=1NyNRzl-krAd3ILaq73_AkljkScm1LjQnh-X_xLHjoGk) • google slides to guide workshop
 
