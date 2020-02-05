@@ -3,6 +3,12 @@ The [ResearchOps Community](https://researchops.community) are people interested
 
 It's a workshop developed **by researchers, for researchers**, along with some of the resulting data from our workshops, in attempt to help connect our local research communities and start a thread of meaningful research-focused conversations.
 
+We are building the final framework itself. That will be updated here: you can follow updates from the community and our project leads on twitter:
+- Community: [@TeamReOps](https://twitter.com/TeamReOps)
+- Tomomi: [@tomomiq](https://twitter.com/tomomiq)
+- Dave: [@stonecrops_](https://twitter.com/stonecrops_)
+
+
 <!--
 **Contents:**
 1. [_Live resource links_](#livelinks)
