@@ -45,8 +45,8 @@ for index, skill in skills.iterrows():
     # Get observations for this skill, by band level as rows, dump into dataframe (skillframe)
     for index, band in bands.iterrows():
         #print band
-        rows_list.append([band['name'],most_important_prop(band, skill, rsf), "important now"])
-        rows_list.append([band['name'],most_desired_prop(band, skill, rsf), "desired skill"])
+        rows_list.append([band['name'],most_important_prop(band, skill, rsf), "Top useful skill"])
+        rows_list.append([band['name'],most_desired_prop(band, skill, rsf), "Top desired skill"])
 
     skillframe = pd.DataFrame(rows_list,columns=['experience', 'proportion-responding', 'category'])
 
@@ -58,7 +58,7 @@ for index, skill in skills.iterrows():
     g.set_xlabels("Years experience in field")
     plt.ylim(0,.5)
     plt.title("Skill: " + skill['skill'].capitalize())
-    print("generating Skill: " + skill['skill'].capitalize() + "image")
+    print("generating skill `" + skill['skill'].capitalize() + "` image")
     #plt.show()
 
     #Title with skillname-cleaned up
