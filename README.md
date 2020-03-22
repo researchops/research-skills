@@ -1,4 +1,4 @@
-# The 2019 Researcher Skills Project
+# The ReOps Research Skills Project
 The [ResearchOps Community](https://researchops.community) are people interested in making the work of research work. This is one part of that effort: taking a look at what it is that researchers really do, where the challenges are, and how they'd like to push their practice forward.
 
 It's a workshop developed **by researchers, for researchers**, along with some of the resulting data from our workshops, in attempt to help connect our local research communities and start a thread of meaningful research-focused conversations.
